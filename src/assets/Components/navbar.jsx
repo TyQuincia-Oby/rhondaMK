@@ -1,9 +1,14 @@
 import { ShoppingCart, Rose, Handbag, List, UserRoundPlus } from 'lucide-react';
-
+import { AboutMe } from '../Pages/AboutMe';
 export function NavBar(){
+    // const [page, setPage] = useState('home')
+
+    // if (page === 'home' ) {
+    //     setPage(<Home />)
+    // } 
+
     return (
         <>
-            <p>Hello from NavBar</p>
             <menu type="toolbar" className='nav'>
                 <li>
                     <button className='nav-text'><Rose /> About Me</button>

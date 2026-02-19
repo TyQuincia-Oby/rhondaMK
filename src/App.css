@@ -6,4 +6,18 @@ li {
 
 button{
     padding: 3px;
+    margin: 5px;
+}
+
+menu {
+    display: flex;
+    justify-content: end;
+}
+
+/* .footer{
+    display: flex;
+} */
+
+.attribute{
+    color: rgb(195, 206, 217);
 }
