@@ -21,7 +21,7 @@ export function Cart () {
         <h1>Shopping Cart</h1>
             <table>
                 <thead>
-                    <strong> Product </strong>
+                     Product
                 </thead>
                 <tbody>
                     Lipstick
